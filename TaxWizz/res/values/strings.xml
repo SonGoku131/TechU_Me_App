@@ -6,5 +6,21 @@
     <string name="hello_world">Hello world!</string>
     <string name="ilikebigbuttonsandicannotlie">Big Button</string>
     <string name="SelectProvince">Select Province</string>
+    <string name="next">Next</string>
+    <string-array name="Provinces">
+        <item >Ontario</item>
+        <item >Quebec</item>
+        <item >British Columbia</item>
+        <item >Manitoba</item>
+        <item >Saskatchewan</item>
+        <item >Alberta</item>
+        <item >New Brunswick</item>
+        <item >Nova Scotia</item>
+        <item >P.E.I</item>
+        <item >Nunavut</item>
+        <item >Yukon</item>
+        <item >Northwest Territories</item>
+        <item />
+    </string-array>
 
 </resources>
