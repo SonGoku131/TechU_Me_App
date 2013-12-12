@@ -22,6 +22,7 @@
         <item>Yukon</item>
         <item>Northwest Territories</item>
         <item>Newfoundland & Labrador</item>
+
     </string-array>
 
     <string name="Select Tax">SelectTax</string>
@@ -34,8 +35,31 @@
     </string-array>
 
     <string name="title_activity_salestax">MainActivity</string>
+<<<<<<< HEAD
     <string name="title_activity_incometax">MainActivity</string>
 
 </resources><resources>
+=======
+
+    <string name="ontario">Province Of Sale</string>
+
+    <string name="ontario1">Province of Sale</string>
+
+    <string name="province">Province of Sale: Ontario</string>
+
+    <string name="sales1">Province of Sale:</string>
+
+    <string name="sales2">Invoice Subtotal (without taxes $):</string>
+
+    <string name="cal">Calculate</string>
+
+    <string name="sales3">HST ($):</string>
+
+    <string name="sales4">Invoice Total (with taxes $):</string>
+
+    <string name="sales5">GST ($)</string>
+
+    <string name="sales6">PST ($):</string>
+>>>>>>> branch 'master' of https://github.com/SonGoku131/TechU_Me_App.git
 
 </resources>
