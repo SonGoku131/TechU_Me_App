@@ -7,27 +7,52 @@
     <string name="ilikebigbuttonsandicannotlie">Big Button</string>
     <string name="SelectProvince">Select Province</string>
     <string name="next">Next</string>
+
     <string-array name="Provinces">
-        <item >Ontario</item>
-        <item >Quebec</item>
-        <item >British Columbia</item>
-        <item >Manitoba</item>
-        <item >Saskatchewan</item>
-        <item >Alberta</item>
-        <item >New Brunswick</item>
-        <item >Nova Scotia</item>
-        <item >P.E.I</item>
-        <item >Nunavut</item>
-        <item >Yukon</item>
-        <item >Northwest Territories</item>
-        <item />
+        <item>Ontario</item>
+        <item>Quebec</item>
+        <item>British Columbia</item>
+        <item>Manitoba</item>
+        <item>Saskatchewan</item>
+        <item>Alberta</item>
+        <item>New Brunswick</item>
+        <item>Nova Scotia</item>
+        <item>P.E.I</item>
+        <item>Nunavut</item>
+        <item>Yukon</item>
+        <item>Northwest Territories</item>
+        <item/>
     </string-array>
+
     <string name="Select Tax">SelectTax</string>
     <string />
+
     <string-array name="Taxes">
-        <item >Sales Tax</item>
-        <item >Property Tax</item>
-        <item />
+        <item>Sales Tax</item>
+        <item>Property Tax</item>
+        <item/>
     </string-array>
+
+    <string name="title_activity_salestax">MainActivity</string>
+
+    <string name="ontario">Province Of Sale</string>
+
+    <string name="ontario1">Province of Sale</string>
+
+    <string name="province">Province of Sale: Ontario</string>
+
+    <string name="sales1">Province of Sale:</string>
+
+    <string name="sales2">Invoice Subtotal (without taxes $):</string>
+
+    <string name="cal">Calculate</string>
+
+    <string name="sales3">HST ($):</string>
+
+    <string name="sales4">Invoice Total (with taxes $):</string>
+
+    <string name="sales5">GST ($)</string>
+
+    <string name="sales6">PST ($):</string>
 
 </resources>

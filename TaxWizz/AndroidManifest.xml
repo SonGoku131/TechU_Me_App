@@ -22,7 +22,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.Beta.taxwizz.MainActivity"></activity>
+        <activity android:name="com.Beta.taxwizz.MainActivity" >
+        </activity>
+        <activity
+            android:name="com.Beta.taxwizz.SalestaxActivity"
+            android:label="@string/title_activity_salestax" >
+        </activity>
     </application>
 
 </manifest>
