@@ -22,5 +22,12 @@
         <item >Northwest Territories</item>
         <item />
     </string-array>
+    <string name="Select Tax">SelectTax</string>
+    <string />
+    <string-array name="Taxes">
+        <item >Sales Tax</item>
+        <item >Property Tax</item>
+        <item />
+    </string-array>
 
 </resources>
