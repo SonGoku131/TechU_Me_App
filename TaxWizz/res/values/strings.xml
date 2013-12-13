@@ -21,25 +21,20 @@
         <item>Nunavut</item>
         <item>Yukon</item>
         <item>Northwest Territories</item>
-        <item>Newfoundland & Labrador</item>
+        <item>Newfoundland and Labrador</item>
 
     </string-array>
 
-    <string name="Select Tax">SelectTax</string>
-    <string />
+    
+    
 
     <string-array name="Taxes">
         <item>Sales Tax</item>
         <item>Property Tax</item>
         <item/>
     </string-array>
-
+	<string name="select_tax">Select Tax</string>
     <string name="title_activity_salestax">MainActivity</string>
-<<<<<<< HEAD
-    <string name="title_activity_incometax">MainActivity</string>
-
-</resources><resources>
-=======
 
     <string name="ontario">Province Of Sale</string>
 
@@ -60,6 +55,7 @@
     <string name="sales5">GST ($)</string>
 
     <string name="sales6">PST ($):</string>
->>>>>>> branch 'master' of https://github.com/SonGoku131/TechU_Me_App.git
+
+    <string name="salesCalcu">Sales Tax Calculator</string>
 
 </resources>
