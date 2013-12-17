@@ -21,14 +21,9 @@
         <item>Nunavut</item>
         <item>Yukon</item>
         <item>Northwest Territories</item>
-        <item>Newfoundland and Labrador</item>
-
-    </string-array>
-
-    
-    
-
-    <string-array name="Taxes">
+        <item >Newfoundland and Labrador</item>
+       </string-array>
+        <string-array name="Taxes">
         <item>Sales Tax</item>
         <item>Property Tax</item>
         <item/>
