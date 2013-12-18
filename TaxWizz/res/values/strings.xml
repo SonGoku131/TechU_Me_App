@@ -25,8 +25,7 @@
        </string-array>
         <string-array name="Taxes">
         <item>Sales Tax</item>
-        <item>Property Tax</item>
-        <item/>
+        <item>Income Tax</item>
     </string-array>
 	<string name="select_tax">Select Tax</string>
     <string name="title_activity_salestax">MainActivity</string>
@@ -52,5 +51,6 @@
     <string name="sales6">PST ($):</string>
 
     <string name="salesCalcu">Sales Tax Calculator</string>
+    <string name="title_activity_incometax">income tax</string>
 
 </resources>

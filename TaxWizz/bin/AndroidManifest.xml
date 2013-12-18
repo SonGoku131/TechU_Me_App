@@ -22,13 +22,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.Beta.taxwizz.MainActivity" >
-        </activity>
-        <activity
+         <activity
             android:name="com.Beta.taxwizz.SalestaxActivity"
             android:label="@string/title_activity_salestax" >
         </activity>
-<<<<<<< HEAD
         <activity
             android:name="com.Beta.taxwizz.SettingsActivity"
             android:label="@string/title_activity_settings" >
@@ -37,8 +34,6 @@
             android:name="com.Beta.taxwizz.IncometaxActivity"
             android:label="@string/title_activity_incometax" >
         </activity>
-=======
->>>>>>> branch 'master' of https://github.com/SonGoku131/TechU_Me_App.git
     </application>
 
 </manifest>

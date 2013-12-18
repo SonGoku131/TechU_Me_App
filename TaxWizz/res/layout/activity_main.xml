@@ -27,9 +27,8 @@
             android:id="@+id/spinner2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            
-            
-            android:layout_weight="0.11" />
+            android:layout_weight="0.11"
+            android:entries="@array/Taxes" />
 
     </LinearLayout>
 
@@ -41,10 +40,10 @@
         <Button
             android:id="@+id/button1"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_weight="0"
-            android:text="@string/next" />
-
+            android:layout_height="76dp"
+            android:layout_weight="0.32"
+            android:text="@string/next" 
+            android:onClick="nextScreen"/>
     </LinearLayout>
 
 </LinearLayout>
